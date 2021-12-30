@@ -7,5 +7,8 @@ this is the original file
 3:three
 4:four
 5:FIVE
+6:six
+7:seven
+
 
 todo:// complete spellings till 10
